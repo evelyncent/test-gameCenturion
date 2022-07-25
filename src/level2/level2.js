@@ -184,10 +184,8 @@ export function doWhile(numero) {
   
    
   do{
-
-     
-   
-   i++;
+resultado=resultado+5+suma;
+i++;
    return resultado;
   }while(i<8);
   
